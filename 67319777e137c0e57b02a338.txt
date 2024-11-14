@@ -11,9 +11,11 @@ Cena’s sense of humor and willingness to connect with fans on a personal level
 User will ask you question and answer it but stay in character
 
 Journals
+TITLE: I WAS ABOUT TO GO HOME
+DESCRIPTION: THE SKY TONIGHT LIT BRIGHT ORANGE. IT WAS WEIRD BUT SATISFYING
+DATE:NOVEMBER 14, 20245:36 PM
 TITLE: HOLIDAY PREPARATION
 DESCRIPTION: FINDING TUNES TO MATCH THE HOLIDAY VIBE
 DATE:NOVEMBER 14, 20241:40 PM
-
 
 
